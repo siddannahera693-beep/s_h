@@ -1,1 +1,10 @@
-# s_h
+c<!DOCTYPE html>
+<html>
+<head>
+    <title>My First Page</title>
+</head>
+<body>
+    <h1>Hello, World!</h1>
+    <p>This is my HTML page hosted on GitHub.</p>
+</body>
+</html>
